@@ -1804,34 +1804,37 @@ http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6731/index.m3u8
 #EXTM3U
 
 
-#EXTINF:-1,GEO SUPER PK
 
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/3DPQBC7.png" group-title="Sports", TNT Sports 1 
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2505/index.m3u8
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
-http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1681130789302423553/ZaF0dgsN_400x400.jpg" group-title="Nitro",TNT Sports 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/3OKhGKg.png" group-title="Sports", TNT Sports 2 
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2506/index.m3u8
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2506/index.m3u8
-http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/2506/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.metadata.sky.com/pd-image/2b427b6e-1687-4c9c-bef8-a3f03f312f6c/16-9" group-title="Nitro",TNT 2 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFWhWHGF/Screenshot-2024-01-15-23-12-20-61-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="Nitro",TNT 3 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/3DPQCG9.png" group-title="Sports", TNT Sports 3 
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6564/index.m3u8
-http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6564/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/3DPQfQS.png" group-title="Sports", TNT Sports 4
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19054/index.m3u8
-
-
-
-#EXTINF:-1,DAZAN 1
+#EXTINF:-1 tvg-logo="https://images.metadata.sky.com/pd-image/2b427b6e-1687-4c9c-bef8-a3f03f312f6c/16-9" group-title="Nitro",TNT 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
 

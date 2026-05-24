@@ -604,6 +604,7 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/2290.m3u8
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 #http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
@@ -645,6 +646,7 @@ https://yupptv.rkdyiptv.workers.dev/live/825.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 http://book4u.top/royr/index.php?id=colorsbanglasd
 https://yupptv.rkdyiptv.workers.dev/live/1509.m3u8
 
@@ -771,6 +773,7 @@ https://airtel.rkdyiptv.workers.dev/live/415.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
+https://tvsen7.aynaott.com/sphdbd/index.m3u8
 http://103.157.248.140:8000/play/a005/index.m3u8
 https://airtel.rkdyiptv.workers.dev/live/409.m3u8
 

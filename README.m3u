@@ -855,7 +855,7 @@ http://103.159.180.34:5001/live/3458.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
-http://103.159.180.34:5001/live/3428.m3u8
+https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45TXlVdlsuHV9QQUxOSXFLbEBxUX0RY1U_DjlFdlp4UWJYERUGBwIA.ts
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="watcho",Discovery ID HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1009,7 +1009,7 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247|referer=https://pl
 
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
-http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/2508/index.m3u8
+
 http://103.157.248.140:8000/play/a00g/index.m3u8
 
 
@@ -1211,11 +1211,11 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
-https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
+http://103.175.73.12:8080/live/43/43_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
+http://103.175.73.12:8080/live/44/44_0.m3u8
 
 
 
@@ -1310,15 +1310,13 @@ http://119.156.228.231:9983/stream/channelid/2119636855?ticket=D8ABDAB7FB615619F
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
+https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45TXlVdVsuHV9QQUxOSXFLbEBxUX0RY1U_DjlFdlp4UWJYERUGBwIA.ts
 http://103.157.248.140:8000/play/a01t/index.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98842.ts
-http://103.175.242.10:8080/starmovies/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
 http://103.157.248.140:8000/play/a01s/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98843.ts
 
 
 

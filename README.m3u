@@ -41,8 +41,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 
 #EXTINF:-1 tvg-id="CRE" tvg-name="Cricbuzz" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2025/08/cricbuzz-active.png" group-title="Sports", Cricbuzz 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
 
 

@@ -1053,7 +1053,8 @@ http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/2508/index.m3u8
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
-http://103.157.248.140:8000/play/a00o/index.m3u8
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148801.ts
+
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 SD
@@ -2097,15 +2098,15 @@ http://46.225.94.157/hls/espn/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png?w=272",Hub Sports 1 HD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148158.ts
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png?w=272",Hub Sports 2 HD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148159.ts
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png?w=272",Hub Sports 3 HD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148160.ts
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png?w=272",Hub Sports 4 HD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148161.ts
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272",Hub Sports 5 HD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148162.ts
 
 
 
@@ -2144,21 +2145,21 @@ https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="WORLD SPORTS",Sky Sport1 NZ FHD
-https://1nyaler.screenistream.xyz/stream/169/index.m3u8
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/150854.ts
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS",Sky Sport2 NZ FHD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/23998.ts
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="WORLD SPORTS",Sky Sport3 NZ FHD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/24018.ts
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="WORLD SPORTS",Sky Sport4 NZ FHD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/24000.ts
 #EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="WORLD SPORTS",Sky Sport5 NZ FHD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/24001.ts
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="WORLD SPORTS",Sky Sport6 NZ FHD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/24002.ts
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="WORLD SPORTS",Sky Sport7 NZ FHD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/24003.ts
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS",Sky Sport Premier League FHD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/24004.ts
 
 
 
@@ -2198,33 +2199,19 @@ http://185.132.134.159:80/one2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png",Astro Bein Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein1
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/415625.ts
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/bein2fhd.png",Astro Bein Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/415626.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/bein2fhd.png",Astro Bein Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein3
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/415627.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/bein4fhd.png",Astro Bein Sports 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein4
-
 
 
 
@@ -2232,40 +2219,46 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652310.ts
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6123/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652311.ts
 
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652312.ts
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6124/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652313.ts
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6125/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652314.ts
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6126/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652315.ts
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6127/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652316.ts
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6128/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652317.ts
 
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
-
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652318.ts
 
 #EXTINF:-1,BEIN SPORTS 1 FRANCE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2499/index.m3u8
@@ -2289,7 +2282,9 @@ http://212.102.38.45/live/test_sport_2/playlist.m3u8
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
 #EXTINF:-1,TEN SPORTS
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/98.ts
+
+
 #EXTINF:-1,TEN CRICKET 
 https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 
@@ -2306,8 +2301,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1,DD SPORTS
 
 #EXTINF:-1, EUROSPORT HD
-http://103.180.212.191:3500/live/875.m3u8
-http://103.161.153.165:8000/play/a01b/index.m3u8
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/23308.ts
 
 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- FINAL)

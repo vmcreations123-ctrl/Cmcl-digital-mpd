@@ -882,7 +882,7 @@ http://103.204.43.87:8080/live/1/1/296.m3u8
 
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
-http://airtel-07.wasmer.app//play.php?id=114&uid=999&pass=999
+http://66.102.126.10:8000/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
 
